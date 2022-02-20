@@ -232,3 +232,41 @@ main{
     background-position: center;
     background-repeat: no-repeat;
 }
+.currency-table-dates{
+    width: 190px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 8px;
+    background-color: var(--soft-orange);
+    border-radius: 8px;
+}
+.currency-table-dates p{
+    color: var(--warm-black1);
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+
+}
+.main-currency-tables .currency-table-title1{
+    margin-bottom: 15px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: 2.3rem;
+    color: var(--secondary-blue);
+    text-align: left;
+}
+.currency-table-dates1{
+    width: 190px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 8px;
+    background-color: var(--soft-blue);
+    border-radius: 8px;
+}
+.currency-table-dates1 .text{
+    color: var(--warm-black1);
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+
+}
