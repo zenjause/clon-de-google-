@@ -149,7 +149,8 @@ main{
     font-weight: bold;
     line-height: 2.3rem;
     color: var(--bitcoin-orange);
-    text-align: left;
+    text-align: center;
+
 }
 .main-tables-container{
     display: flex;
@@ -169,6 +170,7 @@ main{
     max-width: 300px;
     height: 250px;
     margin: 0 auto;
+    
 }
 .currency-table-container table{
     width: 100%;
@@ -265,7 +267,8 @@ main{
     font-weight: bold;
     line-height: 2.3rem;
     color: var(--secondary-blue);
-    text-align: left;
+    text-align: center;
+
 }
 .currency-table-dates1{
     width: 190px;
